@@ -2,6 +2,11 @@
 name = "btc"
 version = "0.1.0"
 edition = "2021"
+authors = ["Orhan Tugrul <orhan.tugrul.61@gmail.com>"]
+description = "Observe the current bitcoin rate from your terminal"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/orhantugrul/btc"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["json"] }
