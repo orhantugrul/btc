@@ -1,0 +1,7 @@
+brace_style = "PreferSameLine"
+comment_width = 80
+fn_args_layout = "Vertical"
+fn_single_line = true
+force_multiline_blocks = true
+max_width = 80
+merge_imports = true
